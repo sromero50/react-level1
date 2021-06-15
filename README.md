@@ -8,7 +8,7 @@
                 </ul>
                 
 <h1>React Level 2</h1>            
-            <h5>(Use Redux Toolkit recommended)</h5>            
+            <h4>(Use Redux Toolkit recommended)</h4>            
                 <ul>
                     <li>Add a save button in Todolist</li>                                       
                     <li>When click on save: Navigate to a Lists component</li>                    
