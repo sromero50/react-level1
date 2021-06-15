@@ -1,5 +1,5 @@
 <h1>React Level 1</h1>
-            <h4>In this example:</h4>
+            <h4>In this challenge:</h4>
             <div style={{ width: '450px', margin: '0 auto', textAlign: 'left' }}>
                 <ul>
                     <li>Configure Todolist component to add items using input</li>
