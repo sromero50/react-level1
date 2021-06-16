@@ -6,16 +6,16 @@
                     <li>Add a close button to each items</li>
                     <li>Remove items by clicking on close button</li>
                 </ul>
-                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/4bccdedacdf169c2b2b587f70fa4e12f.jpg' >
+                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/4bccdedacdf169c2b2b587f70fa4e12f.jpg' width="450">
 <h1>React Level 2</h1>            
             <h4>(Use Redux Toolkit recommended)</h4>            
                 <ul>
                     <li>Add a save button in Todolist</li>
-            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/800b7cf6272a47eefd89994dcedb50b3.jpg' >            
+            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/800b7cf6272a47eefd89994dcedb50b3.jpg' width="450">            
                     <li>When click on save: Navigate to a Lists component</li>                    
                     <li>In List component show a list of lists</li>
                     <li>In List component create a link to navigate back to Todolist</li>                    
                 </ul>
-                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/1e5229de82214cdcfad1d91ce662e81d.jpg' >            
+                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/1e5229de82214cdcfad1d91ce662e81d.jpg' width="450">            
              
          
