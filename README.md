@@ -21,7 +21,7 @@
             <h4>In this final challenge</h4>            
                 <ul>
                     <li>Add a details link on each list</li> 
-            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/09ca1a92d232bfbdb137ba04e3eee925.jpg' width="450">
+            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/e1b7302c65a68091439064e30c802a23.jpg' width="450">
                     <li>When click on details: Navigate to a Details component</li>                    
                     <li>In Details component show that particular list</li>
                     <li>In Details component show stats fetched from API</li>                    
