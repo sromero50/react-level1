@@ -20,13 +20,15 @@
         <h1>React Level 3</h1>            
             <h4>In this final challenge</h4>            
                 <ul>
-                    <li>Add a details link on each list</li>                                      
+                    <li>Add a details link on each list</li> 
+            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/09ca1a92d232bfbdb137ba04e3eee925.jpg' width="450">
                     <li>When click on details: Navigate to a Details component</li>                    
                     <li>In Details component show that particular list</li>
                     <li>In Details component show stats fetched from API</li>                    
                     <li>API URL: <pre>https://www.therogerlab.com/examples/lists-stats.php</pre></li>
                     <li>JSON Response: <pre>"success":"ok","total": 56,"done": 50,"delayed": 6</pre></li>
-                    <li>Add a link to navigate back to Lists components</li>  
+                    <li>Add a link to navigate back to Lists components</li>
+            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/bd88a5c94f6fa1d48534700229a7e5e2.jpg' width="450">  
                 </ul>                
            
              
