@@ -28,7 +28,7 @@
                     <li>API URL: <pre>https://www.therogerlab.com/examples/lists-stats.php</pre></li>
                     <li>JSON Response: <pre>"success":"ok","total": 56,"done": 50,"delayed": 6</pre></li>
                     <li>Add a link to navigate back to Lists components</li>
-            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/bd88a5c94f6fa1d48534700229a7e5e2.jpg' width="450">  
+            <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/6ca9f7aae2d28fb548169dafff00ce0b.jpg' width="450">  
                 </ul>                
            
              
