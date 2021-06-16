@@ -6,7 +6,7 @@
                     <li>Add a close button to each items</li>
                     <li>Remove items by clicking on close button</li>
                 </ul>
-                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/4bccdedacdf169c2b2b587f70fa4e12f.jpg' width="450">
+                <img src='https://www.therogerlab.com/sandbox/projectimages/5c76a4b094e91/c2562945f26329b029f28269e3aa4eb7.jpg' width="450">
 <h1>React Level 2</h1>            
             <h4>(Use Redux Toolkit recommended)</h4>            
                 <ul>
