@@ -5,3 +5,7 @@
     background-color: white;
     text-align: left;
 }
+
+.btn {
+    float: right;
+}

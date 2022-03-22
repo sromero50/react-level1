@@ -1,8 +1,9 @@
 import './Items.css';
-function Items(props) {
+function Items({task, deleteTask}) {
     return (
-        <div>
-            
+        <div className="item">
+            {task}
+            <button className="btn" type="button" onClick={deleteTask} >X</button>
         </div>
     );
 
