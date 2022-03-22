@@ -2,7 +2,7 @@ import './Lists.css'
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
-function Lists () {
+function Lists() {
     const lists = useSelector((state) => state.lists);
 
     console.log(lists)
@@ -18,8 +18,14 @@ function Lists () {
                         let list = allLists.list.map((task, index) => {
                             return <li key={index} >{task}</li>
                         })
-                    
-                        return <ul key={index}>{list}</ul> 
+
+                        return (
+                            <ul key={index}>{list}
+                                <Link to={"/details/" + index}>
+                                    See details
+                                </Link>
+                            </ul>
+                        )
                     })
                 }
             </div>
