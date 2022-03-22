@@ -1,8 +1,13 @@
 import './Todolist.css'
 import Items from './Items';
 import { useState } from "react";
-
+import { useDispatch } from 'react-redux';
+import { saveList } from '../store/action';
+import { useHistory } from "react-router-dom";
 function Todolist() {
+
+    const dispatch = useDispatch();
+    const history = useHistory();
 
     const [task, setTask] = useState("");
     const [taskList, setTaskList] = useState([]);
@@ -27,11 +32,17 @@ function Todolist() {
         setTaskList(newList);
     }
 
+    const handlerSaveList = () => {
+        dispatch(saveList(taskList));
+        history.push('/lists');
+    }
+
     return (
         <div className="todolist">
             <form onSubmit={handlerSubmit} >
                 <input type="text"  value={task} onChange={handlerOnChange} placeholder="Practice react" />
                 <button onClick={handlerAdd} >Add</button>
+                <button onClick={handlerSaveList}>Save</button>
             </form>
             <div>
                 {taskList.map((task, index) => {
