@@ -30,7 +30,7 @@ function Details() {
         </div>
         <ul>
             {
-                lists[id].list.map(function (item, index) {
+                lists[id].list.map((item, index) => {
                     return <li key={index}>{item}</li>;
                 })
             }
